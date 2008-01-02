@@ -10,6 +10,7 @@ Group:		System/Libraries
 URL:		http://www.ltsp.org
 Source0:	http://www.ltsp.org/tarballs/%{name}-%{version}.tar.bz2
 BuildRequires:	dietlibc-devel
+BuildRoot:	%{_tmppath}/%{name}-root
 
 %description
 This program is used in LTSP to halt the terminals.
