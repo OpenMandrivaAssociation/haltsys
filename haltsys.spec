@@ -4,7 +4,7 @@
 Summary:	Tool to halt LTSP terminals
 Name:		haltsys
 Version:	0.2
-Release:	%mkrel 5
+Release:	%mkrel 6
 License:	GPL
 Group:		System/Libraries
 URL:		http://www.ltsp.org
