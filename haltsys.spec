@@ -7,7 +7,7 @@ Version:	0.2
 Release:	7
 License:	GPL
 Group:		System/Libraries
-URL:		http://www.ltsp.org
+URL:		https://www.ltsp.org
 Source0:	http://www.ltsp.org/tarballs/%{name}-%{version}.tar.bz2
 BuildRequires:	dietlibc-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
